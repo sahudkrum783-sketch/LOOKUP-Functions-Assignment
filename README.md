@@ -52,3 +52,10 @@ functions to retrieve meaningful insights from data. Specifically, I learned:
 
 ## 🎯 Learning Purpose
 This project was created as part of my Excel learning and practice journey.
+
+
+## Author 
+
+Anushka Sahu
+
+🔗 LinkedIn: https://www.linkedin.com/in/anushkasahu783/
